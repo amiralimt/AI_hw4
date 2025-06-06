@@ -10,7 +10,7 @@
 - نرمال‌سازی داده، افزایش داده (Data Augmentation)
 - تحلیل نمودارها، دقت مدل‌ها، و مقایسه نهایی
 
-- `report.pdf` : گزارش نهایی (در صورت وجود)
+-  گزارش نهایی 
 
 ## ✅ ویژگی‌ها
 - استفاده از Batch Normalization، Dropout و Early Stopping
